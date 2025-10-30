@@ -5,3 +5,4 @@ class Solution:
         for i in range(0,b):
             ans += 2**i
         return ans
+## Learned about how to use bit_lenght() function in python
